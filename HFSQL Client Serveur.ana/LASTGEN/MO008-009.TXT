@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Login		TAR	306	nouvelle taille enregistrement : 306
+Login	IDQuestion	RUB-		la rubrique IDQuestion est supprimée

@@ -1,0 +1,6 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Login		NFI		nouveau fichier
+Login		FRN		
+Login	IDLogin	RRN		
+Login	Utilisateur	RRN		
+Login	MotDePasse	RRN		
